@@ -23,7 +23,7 @@ Software engineer with experience in Full-Stack development, Business Process Ma
 - [Quality-ISO-IMS](link-to-repo) – Quality Assurance, ISO 9001/14001/45001, HSE management, Risk Management, Internal Audits
 
 ### Office & Educational Projects
-- [Office-Word-Excel-PowerPoint](link-to-repo) – Practical Microsoft Office learning: Word, Excel, PowerPoint, Persian explanations, exercises, templates, videos
+- [Office-Word-Excel-PowerPoint](https://github.com/Drtorkamani/Office-Word-Excel-PowerPoint) – Practical Microsoft Office learning: Word, Excel, PowerPoint, Persian explanations, exercises, templates, videos
 - [Book-Summaries](link-to-repo) – Persian book summaries with abstracts and Google Scholar links
 - [Personal Books (Private)](link-to-repo) – Backup of personal Word and PDF books (private access)
 
