@@ -1,4 +1,4 @@
-# Ali Torkamani
+# DR Mohammad Ali Torkamani
 
 *Software Engineer | Full-Stack & AI | BPM & Organizational Process | Python & Office*
 
@@ -18,8 +18,8 @@ Software engineer with experience in Full-Stack development, Business Process Ma
 
 ### BPM & Organizational Process
 - [BPMS](https://github.com/Drtorkamani/BPMS) – ProcessMaker, Comindware, Camunda, Bonita, Bizagi, jBPM, AI-based process optimization
-- [Software-Engineering]((https://github.com/Drtorkamani/software-engineering)) – Secure software development, software architecture, OOP, Software Product Line, UML modeling
-- [Information-Security]((https://github.com/Drtorkamani/information-security)) – Security projects, software security, cryptography, network security, ISO-27001
+- [Software-Engineering](https://github.com/Drtorkamani/software-engineering) – Secure software development, software architecture, OOP, Software Product Line, UML modeling
+- [Information-Security](https://github.com/Drtorkamani/information-security) – Security projects, software security, cryptography, network security, ISO-27001
 - [Quality-ISO-IMS](https://github.com/Drtorkamani/quality-iso-ims) – Quality Assurance, ISO 9001/14001/45001, HSE management, Risk Management, Internal Audits
 
 ### Office & Educational Projects
