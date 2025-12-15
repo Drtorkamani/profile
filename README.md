@@ -12,9 +12,9 @@ Software engineer with experience in Full-Stack development, Business Process Ma
 ## Featured Repositories
 
 ### Full-Stack & Programming
-- [Full-Stack Development](link-to-repo) – C#, ASP.NET Core, HTML, CSS, JavaScript, ReactJS, NodeJS, SQL Server, MongoDB, MySQL
-- [Python-Programming](link-to-repo) – Python fundamentals to advanced, clean code, data structures, OOP, Frontend & Backend development
-- [Machine-Learning](link-to-repo) – Machine Learning, Deep Learning, Neural Networks, Data Mining, Pattern Recognition, NLP, Data Science
+- [Full-Stack Development]([link-to-repo](https://github.com/Drtorkamani/Full-Stack-Development)) – C#, ASP.NET Core, HTML, CSS, JavaScript, ReactJS, NodeJS, SQL Server, MongoDB, MySQL
+- [Python-Programming]([link-to-repo](https://github.com/Drtorkamani/Python-Programming)) – Python fundamentals to advanced, clean code, data structures, OOP, Frontend & Backend development
+- [Machine-Learning]([link-to-repo](https://github.com/Drtorkamani/Machine-Learning)) – Machine Learning, Deep Learning, Neural Networks, Data Mining, Pattern Recognition, NLP, Data Science
 
 ### BPM & Organizational Process
 - [BPMS](link-to-repo) – ProcessMaker, Comindware, Camunda, Bonita, Bizagi, jBPM, AI-based process optimization
