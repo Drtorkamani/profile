@@ -13,6 +13,12 @@ Strong background in quality management systems, information security, risk mana
 Actively involved in educational content development, Office automation.
 
 ---
+## Links
+
+- [Google Scholar profile (professional/industry contributions)](https://scholar.google.com/citations?user=G26rZ2EAAAAJ&hl=en)
+- [LinkedIn](https://www.linkedin.com/in/mohammadali-torkamani-71b683ab/)
+- [Books Website](http://www.chaponashr.ir/torkamani)
+- 
 
 ## Featured Repositories
 
