@@ -1,8 +1,7 @@
 # DR Mohammad Ali Torkamani
 
-*Software Engineer | Full-Stack & AI | BPM & Organizational Process | Python & Office*
+*Software Engineer |Internal Audits & Lead Auditor |ISO 27001 lead Implementer| ISO 27005 lead risk manager|Quality management representative Full-Stack & AI | BPM & Organizational Process | Python | Quality assurance  IMS (ISO 9001,14001,45001 and HSE-MS) & Auditing  & Office*
 
----
 
 ## About Me
 Software engineer with experience in Full-Stack development, Business Process Management (BPM), AI-based solutions, and Office automation. Passionate about educational projects and digital design with Photoshop.
