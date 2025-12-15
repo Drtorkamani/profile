@@ -17,18 +17,18 @@ Software engineer with experience in Full-Stack development, Business Process Ma
 - [Machine-Learning](link-to-repo) – Machine Learning, Deep Learning, Neural Networks, Data Mining, Pattern Recognition, NLP, Data Science
 
 ### BPM & Organizational Process
-- [BPMS](link-to-repo) – ProcessMaker, Comindware, Camunda, Bonita, Bizagi, jBPM, AI-based process optimization
-- [Software-Engineering](link-to-repo) – Secure software development, software architecture, OOP, Software Product Line, UML modeling
-- [Information-Security](link-to-repo) – Security projects, software security, cryptography, network security, ISO-27001
-- [Quality-ISO-IMS](link-to-repo) – Quality Assurance, ISO 9001/14001/45001, HSE management, Risk Management, Internal Audits
+- [BPMS](https://github.com/Drtorkamani/BPMS) – ProcessMaker, Comindware, Camunda, Bonita, Bizagi, jBPM, AI-based process optimization
+- [Software-Engineering]([link-to-repo](https://github.com/Drtorkamani/software-engineering)) – Secure software development, software architecture, OOP, Software Product Line, UML modeling
+- [Information-Security]([link-to-repo](https://github.com/Drtorkamani/information-security)) – Security projects, software security, cryptography, network security, ISO-27001
+- [Quality-ISO-IMS](https://github.com/Drtorkamani/quality-iso-ims) – Quality Assurance, ISO 9001/14001/45001, HSE management, Risk Management, Internal Audits
 
 ### Office & Educational Projects
 - [Office-Word-Excel-PowerPoint](https://github.com/Drtorkamani/Office-Word-Excel-PowerPoint) – Practical Microsoft Office learning: Word, Excel, PowerPoint, Persian explanations, exercises, templates, videos
-- [Book-Summaries](link-to-repo) – Persian book summaries with abstracts and Google Scholar links
-- [Personal Books (Private)](link-to-repo) – Backup of personal Word and PDF books (private access)
+- [Book-Summaries]([link-to-repo](https://github.com/Drtorkamani/Book-Summaries)) – Persian book summaries with abstracts and Google Scholar links
+- [Personal Books (Private)]([link-to-repo](https://github.com/Drtorkamani/Personal-Books)) – Backup of personal Word and PDF books (private access)
 
 ### Design & Multimedia
-- [Photoshop Projects (Private)](link-to-repo) – Book covers, skins, digital art, UI design
+- [Photoshop Projects (Private)](https://github.com/Drtorkamani/Photoshop-projects) – Book covers, skins, digital art, UI design
 
 ---
 
